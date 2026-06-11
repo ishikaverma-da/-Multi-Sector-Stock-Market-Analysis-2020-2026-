@@ -63,7 +63,7 @@ stock-market-analysis-sql/
 ## 📸 Visualizations
 
 ### Chart 1: Companies per Sector
-![Chart 1](Image/Chart-1 total companies per sector.png)
+![Chart 1](Image/Chart1_total _companies_per_sector.png)
 
 ### Chart 2: Monthly Market Trend
 ![Chart 2](screenshots/chart2_monthly_market_trend.png)
