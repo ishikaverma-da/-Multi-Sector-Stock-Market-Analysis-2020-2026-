@@ -92,5 +92,5 @@ stock-market-analysis-sql/
 **Ishika Verma**
 Data Analyst | SQL • Power BI • Python • Excel
 📧 ishika.verma.da@gmail.com
-🔗 [LinkedIn](https://www.linkedin.com/in/ishika-verma)
+🔗 [LinkedIn]()
 🐙 [GitHub](https://github.com/ishikaverma-da)
