@@ -63,7 +63,7 @@ stock-market-analysis-sql/
 ## 📸 Visualizations
 
 ### Chart 1: Companies per Sector
-![Chart 1](screenshots/chart1_companies_per_sector.png)
+![Chart 1](Image/Chart-3 data-Sector-wise Average Closing Price.png)
 
 ### Chart 2: Monthly Market Trend
 ![Chart 2](screenshots/chart2_monthly_market_trend.png)
