@@ -66,16 +66,16 @@ stock-market-analysis-sql/
 ![Chart 1](Image/Chart1.png)
 
 ### Chart 2: Monthly Market Trend
-![Chart 2](screenshots/chart2_monthly_market_trend.png)
+![Chart 2](Image/Chart2.png)
 
 ### Chart 3: Sector Avg Close Price
-![Chart 3](screenshots/chart3_sector_avg_close_price.png)
+![Chart 3](Image/Chart3.png)
 
 ### Chart 4: Sector Share in Dataset
-![Chart 4](screenshots/chart4_sector_share_dataset.png)
+![Chart 4](Image/Chart4.png)
 
 ### Chart 5: Top 10 Stocks by Volume
-![Chart 5](screenshots/chart5_top10_stocks_volume.png)
+![Chart 5](Image/Chart5.png)
 
 ---
 
@@ -92,5 +92,5 @@ stock-market-analysis-sql/
 **Ishika Verma**
 Data Analyst | SQL • Power BI • Python • Excel
 📧 ishika.verma.da@gmail.com
-🔗 [LinkedIn]()
+🔗 [LinkedIn](https://www.linkedin.com/in/ishika-verma-4b60bb3aa)
 🐙 [GitHub](https://github.com/ishikaverma-da)
